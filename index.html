@@ -228,6 +228,7 @@
 			</div></div>
 
 		</div>
+<<<<<<< HEAD:index.html
 
 		<script type="text/javascript" src="js/jquery-1.12.0.min.js"></script>
 		<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
@@ -264,3 +265,34 @@
 	</body>
 
 </html>
+=======
+	</div>
+
+	<button id="up-btn">Наверх</button>
+
+	<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+		var btnUp = document.getElementById('up-btn');
+		window.onscroll = function() {
+			var offset = window.pageYOffset;
+			if(offset > window.innerHeight) {
+				btnUp.style.display = 'inline';
+			}
+			else {
+				btnUp.style.display = 'none';
+			}
+		}
+		btnUp.onclick = function() {
+			jQuery('html').animate({scrollTop:0},100);
+		}
+	</script>
+    <script async="" src="usocial/usocial.js?v=6.1.4" data-script="usocial" charset="utf-8"></script>
+	<script type="text/javascript">VK.Widgets.Group("vk_official", {mode: 1, width: "250", color1: '303038', color2: 'FFFFFF'}, 155790745);</script>
+	
+	
+<script src="public/js/bootstrap.bundle.min.js"></script>
+<script src="public/js/owl.carousel.min.js"></script>
+<script src="public/js/jquery.fancybox.min.js"></script>
+<script src="public/js/script.js"></script>
+<script>if(location.hash == '#howtostart') {jQuery('html').animate({scrollTop:jQuery('#howtostart-container').offset().top},3);}</script></body>
+</html>
+>>>>>>> f55e23775d3db39790b39f0c9d633b1871b941da:index.htm
