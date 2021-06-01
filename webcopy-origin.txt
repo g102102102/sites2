@@ -1,0 +1,556 @@
+Uri: http://www.firewatchgame.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index.htm
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/fonts/Japanese/NotoSansCJKjp-Bold.otf
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\fonts\Japanese\NotoSansCJKjp-Bold.otf
+Content Type: application/octet-stream
+
+Uri: https://www.firewatchgame.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.firewatchgame.com/images/appicon.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\appicon.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/css/firewatchlaunch.css
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\css\firewatchlaunch.css
+Content Type: text/css
+
+Uri: https://www.camposanto.com/css/camponav.css
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\css\camponav.css
+Content Type: text/css
+
+Uri: http://www.firewatchgame.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://quarterly.camposanto.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-2.htm
+Content Type: text/html
+
+Uri: https://store.steampowered.com/app/383870
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\app\383870.html
+Content Type: text/html
+
+Uri: https://store.playstation.com/en-us/search/firewatch
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\en-us\search\firewatch.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch-e3-2.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch-e3-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch_150305_06.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch_150305_06.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch-2.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch-e3-5.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch-e3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://library.panic.com/firewatch/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\firewatch\index.htm
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/jp/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\index.htm
+Content Type: text/html
+
+Uri: https://www.panic.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-5.htm
+Content Type: text/html
+
+Uri: http://use.typekit.net/nsv4yzv.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\nsv4yzv.js
+Content Type: text/javascript
+
+Uri: http://www.firewatchgame.com/images/buyicon_pc.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\buyicon_pc.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/buyicon_ps4.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\buyicon_ps4.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/buyicon_switch.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\buyicon_switch.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/buyicon_xbone.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\buyicon_xbone.png
+Content Type: image/png
+
+Uri: https://www.youtube-nocookie.com/embed/cXWlgP5hZzc
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\cXWlgP5hZzc.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_01.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_02.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_03.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_04.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/js/jquery-1.12.0.min.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\js\jquery-1.12.0.min.js
+Content Type: application/javascript
+
+Uri: http://www.firewatchgame.com/js/jquery-migrate-1.2.1.min.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\js\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://www.firewatchgame.com/js/magnific.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\js\magnific.js
+Content Type: application/javascript
+
+Uri: http://www.firewatchgame.com/js/jquery.mousewheel.min.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\js\jquery.mousewheel.min.js
+Content Type: application/javascript
+
+Uri: http://www.firewatchgame.com/js/firewizard.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\js\firewizard.js
+Content Type: application/javascript
+
+Uri: http://www.firewatchgame.com/images/keyart-mobile.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\keyart-mobile.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax0.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax0.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax1.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax1.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax2.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax2.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax3.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax3.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax4.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax4.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax5.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax5.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax6.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax6.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax7.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax7.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax8.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax8.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax0@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax0@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax1@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax1@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax2@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax2@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax3@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax3@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax4@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax4@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax5@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax5@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax6@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax6@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax7@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax7@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/parallax/parallax8@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\parallax\parallax8@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/firewatch_subpage_mainlogo.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\firewatch_subpage_mainlogo.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/banner_transparent_left.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\banner_transparent_left.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/banner_transparent_right.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\banner_transparent_right.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/banner_arrow_transparent_right.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\banner_arrow_transparent_right.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/banner_outlined_left.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\banner_outlined_left.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/banner_outlined_right.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\banner_outlined_right.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/banner_outlined_body.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\banner_outlined_body.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/laurel_left.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\laurel_left.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/laurel_right.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\laurel_right.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/storelink_steam.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\storelink_steam.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/storelink_gog.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\storelink_gog.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/storelink_psn.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\storelink_psn.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/storelink_xbone.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\storelink_xbone.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/merchlink_transparent.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\merchlink_transparent.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/firewatch_shield_small.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\firewatch_shield_small.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/logo_camposanto_transparent.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\logo_camposanto_transparent.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/images/logo_panic_transparent.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\logo_panic_transparent.png
+Content Type: image/png
+
+Uri: https://www.camposanto.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-1.htm
+Content Type: text/html
+
+Uri: https://quarterly.camposanto.com/?gi=4feae723644d
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-3.htm
+Content Type: text/html
+
+Uri: https://blog.camposanto.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.nintendo.com/games/detail/firewatch-switch/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\games\detail\firewatch-switch\index.htm
+Content Type: text/html
+
+Uri: https://www.microsoft.com/ru-by/p/firewatch/bqqkg9h2stc0?rtc=1
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\ru-by\p\firewatch\bqqkg9h2stc0.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/media/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\media\index.htm
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: http://www.firewatchgame.com/css/firewatchlaunch.css?reload=0
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\css\firewatchlaunch-1.css
+Content Type: text/css
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch-e3-6.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch-e3-6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch-e3-4.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch-e3-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch_150305_05.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch_150305_05.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch-e3-1.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch-e3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/Bear-Tree-Approach-3.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\Bear-Tree-Approach-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/firewatch_150305_01.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\firewatch_150305_01.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/about/about_feature_02@2x.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\about\about_feature_02@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/HdUYYnfRdl8?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\HdUYYnfRdl8.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/qDm2MlcE5u4?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\qDm2MlcE5u4.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/2LgqUiqTvio?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\2LgqUiqTvio.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/3v4swVJjuds?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\3v4swVJjuds.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/cXWlgP5hZzc?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\cXWlgP5hZzc-1.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_05.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_06.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/d02lhvvVSy8?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\d02lhvvVSy8.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_07.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_07.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/fdeSd4yNLuM?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\fdeSd4yNLuM.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_08.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_08.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_09.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_09.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_10.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/screenshots/thumbs/firewatch_11.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\screenshots\thumbs\firewatch_11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/T-qmLZfMvKU?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\T-qmLZfMvKU.html
+Content Type: text/html
+
+Uri: http://code.jquery.com/jquery-1.12.0.min.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jquery-1.12.0.min.js
+Content Type: application/javascript
+
+Uri: http://code.jquery.com/jquery-migrate-1.2.1.min.js
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://www.firewatchgame.com/images/firewatch_subpage_mainlogo@2x.png
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\images\firewatch_subpage_mainlogo@2x.png
+Content Type: image/png
+
+Uri: http://www.firewatchgame.com/about/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\about\index.htm
+Content Type: text/html
+
+Uri: https://steamcommunity.com/app/383870/discussions
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\app\383870\discussions.html
+Content Type: text/html
+
+Uri: https://store.steampowered.com/app/383870/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\app\383870\index.htm
+Content Type: text/html
+
+Uri: https://chrisremo.bandcamp.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-6.htm
+Content Type: text/html
+
+Uri: https://steamcommunity.com/sharedfiles/filedetails/?id=779320862&searchtext=
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\sharedfiles\filedetails\index.htm
+Content Type: text/html
+
+Uri: https://www.polygon.com/2013/10/2/4794332/panic-campo-santo-cabel-sasser
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\2013\10\2\4794332\panic-campo-santo-cabel-sasser.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/media/Firewatch Audio Tour 1.0.pdf
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\media\Firewatch Audio Tour 1.0.pdf
+Content Type: application/pdf
+
+Uri: https://www.gdcvault.com/play/1024415/Do-You-Copy-Dialog-System
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\play\1024415\Do-You-Copy-Dialog-System.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/about/about_feature_01.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\about\about_feature_01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/about/about_feature_02.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\about\about_feature_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/about/about_feature_03.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\about\about_feature_03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/about/about_feature_01@2x.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\about\about_feature_01@2x.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/about/about_feature_03@2x.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\about\about_feature_03@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://store.playstation.com/ja-jp/search/firewatch
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\ja-jp\search\firewatch.html
+Content Type: text/html
+
+Uri: https://library.panic.com/ja/firewatch/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\ja\firewatch\index.htm
+Content Type: text/html
+
+Uri: https://www.panic.com/jp/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\index-1.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/cLO1okzrFkU
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\cLO1okzrFkU.html
+Content Type: text/html
+
+Uri: https://store.steampowered.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-7.htm
+Content Type: text/html
+
+Uri: https://blog.camposanto.com/post/61574451440/deciding-to-found-and-then-actually-create-a-video
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\post\61574451440\deciding-to-found-and-then-actually-create-a-video.html
+Content Type: text/html
+
+Uri: https://twitter.com/camposanto
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\camposanto.html
+Content Type: text/html
+
+Uri: https://store-jp.nintendo.com/list/software/70010000007928.html
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\list\software\70010000007928.html
+Content Type: text/html
+
+Uri: https://store.camposanto.com/password
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\password.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/jp/media/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\media\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/V8H2K8mJbMk?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\V8H2K8mJbMk.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/NLzTQVe71mY?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\NLzTQVe71mY.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/cLO1okzrFkU?VQ=HD1080
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\embed\cLO1okzrFkU-1.html
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/jp/about/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\about\index.htm
+Content Type: text/html
+
+Uri: https://camposantogames.bandcamp.com/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\index-8.htm
+Content Type: text/html
+
+Uri: https://store.steampowered.com/app/411820/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\app\411820\index.htm
+Content Type: text/html
+
+Uri: https://www.oculus.com/experiences/rift/1252557204760403/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\experiences\rift\1252557204760403\index.htm
+Content Type: text/html
+
+Uri: https://madewithunity.jp/interviews/firewatch/
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\interviews\firewatch\index.htm
+Content Type: text/html
+
+Uri: http://www.firewatchgame.com/jp/about/about_feature_01.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\about\about_feature_01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/jp/about/about_feature_02.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\about\about_feature_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/jp/about/about_feature_03.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\about\about_feature_03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/jp/about/about_feature_01@2x.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\about\about_feature_01@2x.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/jp/about/about_feature_02@2x.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\about\about_feature_02@2x.jpg
+Content Type: image/jpeg
+
+Uri: http://www.firewatchgame.com/jp/about/about_feature_03@2x.jpg
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\jp\about\about_feature_03@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://twitter.com/panicjapan
+File Name: C:\Downloaded Web Sites\www.firewatchgame.com\panicjapan.html
+Content Type: text/html
+
